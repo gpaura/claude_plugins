@@ -1,0 +1,13 @@
+{
+  "name": "gpaura-claude-code",
+  "version": "1.0.0",
+  "description": "gpaura's personal Claude Code setup with productivity skills and specialized AI agents for modern web development",
+  "author": {
+    "name": "gpaura",
+    "email": "gpaura@example.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/gpaura/claude_plugins",
+  "repository": "https://github.com/gpaura/claude_plugins",
+  "keywords": ["productivity", "nextjs", "supabase", "typescript", "react", "development"]
+}

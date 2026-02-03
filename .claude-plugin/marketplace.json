@@ -1,0 +1,16 @@
+{
+  "name": "gpaura-claude-code",
+  "description": "gpaura's curated Claude Code setup with productivity skills and AI agents for modern web development",
+  "owner": {
+    "name": "gpaura",
+    "contact": "github.com/gpaura"
+  },
+  "plugins": [
+    {
+      "name": "gpaura-claude-code",
+      "source": "./",
+      "description": "Personal Claude Code configuration with productivity skills and specialized AI agents for modern web development",
+      "version": "1.0.0"
+    }
+  ]
+}
